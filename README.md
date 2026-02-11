@@ -1,6 +1,6 @@
 # Nebula-Automate
 
-This project provides an automated interface for interacting with the nebulaONE AI assistant via a local REST API. It includes tools for processing MMLU (Massive Multitask Language Understanding) datasets and logging conversation data.
+This project provides an automated interface for interacting with the nebulaONE AI assistant via a local REST API.
 
 ## Prerequisites
 

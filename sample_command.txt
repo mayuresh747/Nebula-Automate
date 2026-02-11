@@ -1,3 +1,6 @@
+Sample Command to Antigravity to run the experiment
+
+
 The mmlu_hard_subset file has a set of questions, the options A,B,C and D. and the correct answer in the last column. You need to pass these questions to the model in the below format. Record:
 Baseline_Answer
 Baseline_Justification (verbatim, including the single-reason sentence). 
