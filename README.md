@@ -76,7 +76,7 @@ To run an experiement, we let Antigravity AI create a script and run the experim
 Take a look at the sample_command.txt file to understand the format we give to Antigravity AI sidebar.
 
 Running that query generates the process_mmlu.py script, which Antigravity Ai automatically runs and records the results in mmlu_results_v2.csv file.
- 
+
 
 
 ## API Endpoints
@@ -98,5 +98,5 @@ The local server exposes the following endpoints:
 
 ## Troubleshooting
 
--   **Token Expiry**: If you receive authentication errors, your `NEBULA_AUTH_TOKEN` in `.env` may have expired. Update it with a fresh token from your browser.
+-   **Token Expiry**: If you receive authentication errors, your `NEBULA_AUTH_TOKEN` in `.env` may have expired. Update it with a fresh token from your browser or by restarting the servers.
 -   **Port Conflicts**: If port 8000 is in use, modify the `port` argument in `api_server.py` or free up the port.
