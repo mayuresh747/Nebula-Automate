@@ -31,7 +31,7 @@ This project provides an automated interface for interacting with the nebulaONE 
     # Configuration State ID (Can be fetched from a particular chat agent once we start a conversation with it. )
     # NEBULA_CONFIG_STATE_ID=your_config_id
 
-    # GPT System ID (Optional)
+    # GPT System ID (Optional - copy the same above config id here if this throws an error)
     # NEBULA_GPT_SYSTEM_ID=your_system_id
 
     # Base URL (Do not change)
